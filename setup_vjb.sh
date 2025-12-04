@@ -2,7 +2,7 @@
 
 # Define target directories and file name
 # Note: Since the repository is public, credentials are NOT needed.
-REPO_URL="https://github.com/iShiftCloud/cloud-automation.git"
+REPO_URL="https://github.com/iShiftCloud/vjb-automation.git"
 CLONE_DIR="/tmp/vJailbreak-Install_temp"
 TARGET_DIR="/home/ubuntu"
 VMWARE_TAR_PATTERN="VMware-vix-disklib-*.tar.gz"
